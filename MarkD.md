@@ -9,7 +9,7 @@ Markdown is used as an ***easy*** way to read/write text that can be changed to 
 
 **Headings** are assigned by placing a hash (#) before the text you want as the heading. Multiple (#) can be used for lower level headings, the more hashes a heading has the lower its level.
 
-A **Paragraph** is made by separating text with a blank line. 
+A **Paragraph** is made by separating text with a blank line.  
 
 The asterisks is used as the designator to add emphasis. The same number of asterisks are placed around the word for the effect. A single asterisk before and after the text will make it *italic*, two will make the text **bold**, and three will make it ***bold and italic.***
 
