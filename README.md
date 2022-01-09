@@ -9,6 +9,3 @@ Hello! I'm George. Here is where I will be cataloging my journey as I learn to c
 
 [Markdown Notes](MarkD.md)
 
-[HTML Notes](HTML.md)
-
-[CSS Notes](CSS.md)
