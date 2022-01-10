@@ -1,7 +1,7 @@
 
 # Intro
 
-Hello! I'm George. Here is where I will be cataloging my journey as I learn to code.
+Hello! I'm George (he/him). I am a software development student with a background as a pharmacy tech. Here is where I will be cataloging my journey as I learn to code.
 
 ## Table of Contents
 
@@ -11,4 +11,4 @@ Hello! I'm George. Here is where I will be cataloging my journey as I learn to c
 
 [Markdown Notes](MarkD.md)
 
-### Cide 201 Reading Notes
+### Code 201 Reading Notes
